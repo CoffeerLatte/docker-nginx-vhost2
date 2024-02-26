@@ -1,4 +1,4 @@
-jsm commit
+jsm route
 
 # docker nginx vhost
 
